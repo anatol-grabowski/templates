@@ -1,0 +1,3 @@
+#include "resources.h"
+
+IDR_MYFILE RESTYPE_RAW "test_resource.txt"

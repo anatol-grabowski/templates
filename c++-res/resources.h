@@ -1,0 +1,2 @@
+#define RESTYPE_RAW 256
+#define IDR_MYFILE 101
